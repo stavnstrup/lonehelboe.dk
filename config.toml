@@ -1,0 +1,5 @@
+baseURL = "https://lonehelboe.dk"
+languageCode = "da-dk"
+title = "Lone Helboe"
+
+timeZone = "Europe/Copenhagen"
